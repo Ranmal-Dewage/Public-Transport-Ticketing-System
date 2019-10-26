@@ -170,8 +170,15 @@ If you are getting an error like below, it occurs because I’m using Twilio fre
 
 3) At the moment the cash top up solution mention in the specification is not practical to implement.
 
+#### Developed by Team VIKING RAIDERS;
+* Ranmal Dewage
+* Tenusha Guruge
+* Vimukthi Rajapaksha
+* Aravinda Kulasooriya
+
+
 ## Copyright
 
-(C) 2019 Tenusha Guruge
+(C) 2019 Ranmal Dewage (ranmal.b.dewage@gmail.com)
 <br>
-[tenusha.wordpress.com](https://tenusha.wordpress.com)
+[ranmaldewage.wordpress.com](https://ranmaldewage.wordpress.com)
