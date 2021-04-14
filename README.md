@@ -20,7 +20,7 @@ This application follows Model-View-Controller (MVC) architecture. The view is i
 <p></p><br />
 
 <img src="https://i.ibb.co/ZL3rYsR/Capture27.png" alt="Capture27" border="0">
-Figure_1: component diagram
+Figure 1: component diagram
 <p></p><br />
 
 ## Features of the application
@@ -31,11 +31,11 @@ As an improvement to the specification document, we have added a social signup f
 <p></p><br />
 
 <img src="https://i.ibb.co/SPvBmNJ/google-login.png" alt="Capture7" border="0">
-Figure_2: social login
+Figure 2: social login
 <p></p><br />
 
 <img src="https://i.ibb.co/ZhbgGsG/social-login.png" alt="Capture7" border="0">
-Figure_3: social login sequence diagram
+Figure 3: social login sequence diagram
 <p></p><br />
 
 ### 2)  Real-time ticket availability
@@ -47,7 +47,7 @@ Even if the user doesn’t have an account created for the application, they can
 <p></p><br />
 
 <img src="https://i.ibb.co/sgKx6W5/ticket-availability.png" alt="Capture7" border="0">
-Figure_4: ticket availability
+Figure 4: ticket availability
 <p></p><br />
 
 ### 3) Email and SMS notification
@@ -57,7 +57,7 @@ Also, the system will send a text message to the user’s registered mobile numb
 <p></p><br />
 
 <img src="https://i.ibb.co/9NSTsbw/email.png" alt="Capture7" border="0">
-Figure_5: sample email
+Figure 5: sample email
 <p></p><br />
 
 ### 4)  Discount for Government officers
@@ -90,13 +90,13 @@ In the original design they have mention that railway transportation administrat
 <p></p><br />
 
 <img src="https://i.ibb.co/XyQywN2/create-route.png" alt="Capture7" border="0">
-Figure_6: create route
+Figure 6: create route
 <p></p><br />
 <img src="https://i.ibb.co/gZ41nHd/update-route.png" alt="Capture7" border="0">
-Figure_7: update route (eg: add new station)
+Figure 7: update route (eg: add new station)
 <p></p><br />
 <img src="https://i.ibb.co/z66dCRb/delete-route.png" alt="Capture7" border="0">
-Figure_8: delete existing route
+Figure 8: delete existing route
 <p></p><br />
 
 #### iv) Train Management
@@ -104,10 +104,10 @@ Figure_8: delete existing route
 In the original design they haven’t mentioned that railway transportation administration should manage trains through the system but as an added feature we have also created an interface to manage trains using unique train name and assign the seats in the different classes of that train and assign the route in which the train will operate. Following are functionalities available in the Train Management for railway transportation administration.
 
 <img src="https://i.ibb.co/bvjgcwM/add-train.png" alt="Capture7" border="0">
-Figure_9: create train
+Figure 9: create train
 <p></p><br />
 <img src="https://i.ibb.co/DbwX4pS/delete-train.png" alt="Capture7" border="0">
-Figure_10: delete route
+Figure 10: delete route
 <p></p><br />
 
 #### iv) Report Management
@@ -116,15 +116,15 @@ In the original design they have mentioned that railway transportation administr
 <p></p><br />
 
 <img src="https://i.ibb.co/9yyby27/report-home.png" alt="Capture7" border="0">
-Figure_11: generate yearly or monthly report
+Figure 11: generate yearly or monthly report
 <p></p><br />
 
 <img src="https://i.ibb.co/4TwZj2H/bar-chart.png" alt="Capture7" border="0">
-Figure_12: bar chart view
+Figure 12: bar chart view
 <p></p><br />
 
 <img src="https://i.ibb.co/M7BBW5S/pie-chart.png" alt="Capture7" border="0">
-Figure_13: pie chart view
+Figure 13: pie chart view
 <p></p><br />
 
 ## Known Issues 
